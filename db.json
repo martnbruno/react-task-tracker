@@ -1,11 +1,3 @@
 {
-  "tasks": [
-    {
-      "text": "presentar proyecto",
-      "day": "2021-05-25",
-      "time": "17:30",
-      "reminder": true,
-      "id": 1
-    }
-  ]
+  "tasks": []
 }
