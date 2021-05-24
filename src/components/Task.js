@@ -21,6 +21,9 @@ const Task = ({ task, onDelete, onToggle }) => {
             <p>
                 {task.day}
             </p>
+            <p>
+                {task.time}
+            </p>
         </div>
     )
 }

@@ -10,7 +10,7 @@ const Header = ( { title, onAdd, showAdd } ) => {
            {location.pathname === '/' && (
                <Button 
                 color = { showAdd ? 'red' : 'green' } 
-                text = { showAdd ? 'Close' : 'Add' } 
+                text = { showAdd ? 'Cerrar' : 'Añadir Tarea' } 
                 onClick = { onAdd } 
             />)}            
         </header>
@@ -18,7 +18,7 @@ const Header = ( { title, onAdd, showAdd } ) => {
 }
 
 Header.defaultProps= {
-    title: 'Task Tracker',
+    title: 'Mis Tareas',
 }
 
 
