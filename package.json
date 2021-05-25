@@ -13,7 +13,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2",
-    "homepage": "https://github.com/m-bruno/react-task-tracker.git"
+    "homepage": "https://m-bruno.github.io/react-task-tracker/"
     
   },
   "scripts": {
