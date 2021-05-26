@@ -1,4 +1,4 @@
-### React Task Tracker
+# React Task Tracker
 
 ### 1. Clone this Repo
 https://github.com/m-bruno/react-task-tracker.git
