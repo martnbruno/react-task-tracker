@@ -66,7 +66,7 @@ function App() {
                   onToggle={toggleReminder}
                 />
               ) : (
-                "No More Tasks Today!"
+                "No más tareas por hoy, a descansar!"
               )}
             </>
           )}
