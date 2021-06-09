@@ -10,7 +10,7 @@ const AddTask = ({ onAdd }) => {
     e.preventDefault();
 
     if (!text) {
-      alert("Por favor, añade una tarea");
+      alert("Por favor, añade una tarea.");
       return;
     }
 
